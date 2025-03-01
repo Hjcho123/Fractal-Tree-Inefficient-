@@ -1,4 +1,4 @@
-# An Inefficient Fractal Tree
+# An Inefficient Fractal Tree Generator
 A simple fractal tree program I made in Python. Admittedly the code isn't optimized at all and so I plan on making a proper fractal tree generator sometime using an L-systems based approach. But for now, just wanted to share this!
 
 ### Sample Images
