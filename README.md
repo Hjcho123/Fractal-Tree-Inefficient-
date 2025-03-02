@@ -1,5 +1,5 @@
 # An Inefficient Fractal Tree Generator
-A simple fractal tree program I made in Python. The code is a bit of a mess, and so I plan on making a proper fractal tree generator someday using a proper [L-systems](https://en.wikipedia.org/wiki/L-system?useskin=vector) based approach. But for now, just wanted to share this!
+A simple fractal tree program I made in Python. The code is a bit of a mess, and so I plan on making a better fractal tree generator someday using a proper [L-systems](https://en.wikipedia.org/wiki/L-system?useskin=vector) based approach. But for now, just wanted to share this!
 
 ### Sample Images
 <img width="830" alt="image" src="https://github.com/user-attachments/assets/e312f7bb-030a-43e5-9e5a-9844fb08adb8" />
